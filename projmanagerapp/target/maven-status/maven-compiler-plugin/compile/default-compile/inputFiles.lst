@@ -1,0 +1,15 @@
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/controller/ProjectController.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/repo/UserRepository.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/entity/User.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/service/UserService.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/entity/Project.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/entity/ParentTask.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/ProjmanagerappApplication.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/repo/ParentTaskRepository.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/vo/UserVO.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/controller/TaskController.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/controller/UserController.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/entity/Task.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/filter/SimpleCORSFilter.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/repo/ProjectRepository.java
+/Users/BalajiHaritha/Downloads/projmanagerapp/src/main/java/com/projmanager/repo/TaskRepository.java

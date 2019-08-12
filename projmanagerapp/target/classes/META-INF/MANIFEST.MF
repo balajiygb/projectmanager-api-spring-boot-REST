@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: projmanagerapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: BalajiHaritha
+Implementation-Vendor-Id: com.projmanager-app
+Build-Jdk: 1.8.0_66
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/projmanagerapp
+Created-By: Maven Integration for Eclipse
+
